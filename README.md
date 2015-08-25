@@ -57,8 +57,8 @@ git  설명
 - bug fix , fork, pull request 요청. 
 
 ### 실습 마지막
-- datergram.github.io
-- github.com/datergram.github.io
+- http://datergram.github.io/visual
+- github.com/datergram/visual
 - git 권한추가
 - 같이 만드는 스터디 홈페이지 
 
