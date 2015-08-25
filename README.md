@@ -5,9 +5,31 @@
 태풍 고니가 올라오는 저녁에..
 git  설명
 
-공자 무재한 
-그대신 전부 오픈. 전화 번호, 계좌 번호, 각종 비번 하믄 검색됩니다. 
-동일 파일은 하나만 유지하자.
+### git
+ vcs version control system. 
+ 종류 cvs. svn. git
+ git? github?
+ 버젼관리란 동일 파일은 하나만 유지하자. 
+ 공짜. 무재한
+ 그대신 전부 오픈. 전화 번호, 계좌 번호, 각종 비번 하믄 인터넷 검색됩니다. 
+ 오픈 소스의 집합소. 구글도 보고 있다.
+ 오픈! 공유!
+ 
+### 실습 하나
+ git 가입 및 계정 생성
+ branch 생성  gh-pages  
+ 
+ http://username**.github.io/**git_repository/file_name
+ ex) http://dubu.github.io/goni/index.html
+ 
+### git 으로 할 수 있것들
+ 슬라이드 
+ 홈페이지
+ 블로그
+ markdown 홈페이지
+ bl.ock.io
+등
+ 
 
 내꺼 만들기
 같이 쓰는거 만들기. 출석부? // 소감문. 
