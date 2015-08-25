@@ -47,7 +47,7 @@ git  설명
 ### 실습 셋 
 - 내 홈피 생성. index.html
 - gist
-- bl.ock.org
+- bl.ocks.org
 - chrome extension 안되는데;
 - bug fix , fork, pull request 요청. 
 
