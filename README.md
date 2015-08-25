@@ -58,7 +58,7 @@ git  설명
 
 ### 실습 마지막
 - http://datergram.github.io/visual
-- github.com/datergram/visual
+- http://github.com/datergram/visual
 - git 권한추가
 - 같이 만드는 스터디 홈페이지 
 
