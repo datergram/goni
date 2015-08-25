@@ -15,7 +15,7 @@ git  설명
 ### 끝나고 나면
 - 평생쓸 홈페이지를 하나 가지게 됩니다. 
 - script 코드를 올릴 공간을 가지게 됩니다. 
-- 내가 프로그래머인거 가은 기분에 빠지게 됩니다.
+- 내가 프로그래머인거 같은 기분에 빠지게 됩니다.
 
 ### 왜 필요한가
 - 중복의 안좋은 기억 메일로 공유하던 문서 보고서_1.txt 보고서_2.txt 보고서_최종.txt 보고서_final.txt
@@ -51,7 +51,7 @@ git  설명
  
 ### 실습 셋 
 - 내 홈피 생성. index.html
-- gist
+- gist  코드 블럭
 - bl.ocks.org
 - chrome extension 안되는데;
 - bug fix , fork, pull request 요청. 
