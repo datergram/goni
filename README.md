@@ -12,6 +12,7 @@ git  설명
 내꺼 만들기
 같이 쓰는거 만들기. 출석부? // 소감문. 
 
+```
 var observer = new MutationObserver(redraw);
 
 observer.observe(document.documentElement, {childList: true, subtree: true});
@@ -47,6 +48,7 @@ function redraw() {
     observer.observe(document.documentElement, {childList: true, subtree: true});
   }
 }
+```
 
 재미있는거 
 실습위주로
