@@ -1,441 +1,139 @@
-name: inverse
-layout: true
 ---
-class: title, center, middle
+# goni
+깃허브 실습용
 
-라즈베리파이 뿜뿌질? 뿜뿌질!!
-# <span class="sky">R</span>asberry <span class="sky">P</span>i
-
-.footnote[
-- [발표자](https://www.facebook.com/kozazz): 곽두환
-]
----
-class: middle, full-text
-
-# 개요
-- 이런것들을 만듭니다
-- 왜 뽐뿌인가.. 이론?실습?
-- 다 만들 수 있다.
-- 카피 -> 수정 -> 내것화 과정.
-- 내가 만든것들(방금그라디오,쑥갓키우기...)
-- 기타. 마인드스톰, 리틀비츠 등
-- 아두베리스핀 모임
+데이터 그램 발표용.
+태풍 고니가 올라오는 저녁에..
+git  설명
 
 ---
-
-class: middle,  full-text
-
-오늘의 주인공
-RASPBERRY PI B+
-![](img/Raspberry_Pi_B+_top.jpg)
-
----
-
-class: middle, full-text
-
-- 이런것들을 합니다.
-
-- 라즈베리파이로 만든 휴대폰, PiPhone!
-http://youtu.be/8eaiNsFhtI8
-
-- 라즈베리파이로 제어하는 로봇,R2D2와 PiBBOT!
-http://youtu.be/znuUm5vbSpI
-http://youtu.be/D0ydpIZFtuM
+### 들어가기에 앞서
+- 열정에 불을 지피다
+- 오늘 개콘보다 재밌습니다
+- 다 기억 못합니다
+- 구경만 해도 좋습니다
+- git은 웹에서 하는 것으로.. 좋은 툴도 많고, shell 명령어도 많습니다만 생략.
 
 ---
-
-class: middle, full-text
-
-- 로봇팔을 작동시키는 라즈베리파이와 엑스박스360 컨트롤러!
-http://youtu.be/xvKGxHoBBII
-
-- 라즈베리파이 카메라를 장착한 쿼드콥터(4개의 프로펠러를 사용하는 초미니 헬리콥터)!
-http://youtu.be/-dReyGvzAQw
-
--  휴대용게임기로 변신한 라즈베리파이!
-http://youtu.be/6JuB0zOHGeg
-http://youtu.be/8CA8tWJW8rk
+### 끝나고 나면
+- 평생쓸 홈페이지 주소가 생깁니다.
+- script 코드를 올릴 공간을 가지게 됩니다.
+- 프로그래머 같은 기분이 듭니다.
 
 ---
-class: middle, full-text
-
-- 마이드스톰 동영상
-http://www.youtube.com/watch?v=85kI6oBSXHY
-
-- 큐빅맞추기
-http://www.youtube.com/watch?v=adOcQVTGpGI
-http://www.youtube.com/watch?v=staapsj3eRQ
-
-- 이동로봇
-http://www.youtube.com/watch?v=h5xSa-NaZtg
-
-- 리틀비츠
-http://www.doguin.com/#!littlebits/cy2p
-
-이중에 내꺼는? 신입시절 월급으로 만든거?
+### 왜 필요한가
+- 중복의 안좋은 기억 메일로 공유하던 문서 보고서_1.txt 보고서_2.txt 보고서_최종.txt 보고서_final.txt
+- 같은 파일은 하나만 존재하게 한다. 중복의 삭제
+- 비슷한애들
+- 구글드라이브 , 클라우드, 블로그 vs git
+- 뭐가 다른가 파일 단위 같이 협업?
 
 ---
-class: middle, full-text
-
-<img src="https://lh3.googleusercontent.com/-dvhAlXcwPvc/URhhGPQSXPI/AAAAAAAAALI/JQ82Dzj2954/w800-h800/KogMaw_MK-II_%2B435.jpg" alt="img" style="width: 300px;"/>
-<img src="https://lh5.googleusercontent.com/-Gdi4J7wKvxo/URhhIJB09UI/AAAAAAAABrg/vnBw9hSokOk/w980-h735/KogMaw_MK-II_%2B448.jpg" alt="img" style="width: 300px;"/>
-<img src="https://lh3.googleusercontent.com/-KW2yFeLVAkY/URhhH6GHNOI/AAAAAAAAALw/4iz9HlgOOx4/w800-h800/KogMaw_MK-II_%2B447.jpg" alt="img" style="width: 300px;"/>
+### git
+- vcs version control system.
+- 종류 cvs. svn. git
+- git? github?
+- 버젼관리란 동일 파일은 하나만 유지하자.
+- 공짜. 무재한
+- 그대신 전부 오픈. 전화 번호, 계좌 번호, 각종 비번 하믄 인터넷 검색됩니다.
+- 오픈 소스의 집합소. 구글도 보고 있다.
+- 오픈! 공유!
 
 ---
-class: middle, full-text
+### 실습 하나
+- git 가입 및 계정 생성
+- branch 생성  gh-pages
+- http://username**.github.io/**git_repository/file_name
+- ex) http://dubu.github.io/goni/index.html
+- 파일 생성 aa.txt
+- 폴더 생성 및 파일 생성
+- history 확인 및 이전 상태 확인
 
-뽐뿌질이 슬금슬금?
+---
+### 실습 둘
+- js. jQuery. chrome 개발자도구.
+- 네이버에 다음 로그를
+- 뉴스 이미지 삭제
+- 뉴스 제목 바꾸기, 글자 키우기 등
+
+---
+### 실습 셋
+- 내 홈피 생성. index.html
+- gist  코드 블럭
+- bl.ocks.org
+- chrome extension 안되는데;
+- bug fix , fork, pull request 요청.
+
+---
+### 실습 마지막
+- http://datergram.github.io/visual
+- http://github.com/datergram/visual
+- git 권한추가
+- 같이 만드는 스터디 홈페이지
+
+---
+### git 으로 할 수 있는 것들
+- 아이파이썬 노트북
+- 슬라이드
+- 홈페이지
+- 블로그
+- markdown 홈페이지
+- bl.ock.org
+- 등등
 
 ---
 
-class: middle, full-text
-
-왜 그 동안 못했을까?
----
-
-class: middle, full-text
-
-왜 하필 요즘?
-
----
-class: middle, full-text
-
-유비쿼터스랑 다른가?
-
----
-class: middle, full-text
-
-오픈! 하드웨어!
-
----
-
-class: middle, full-text
-
-![](img/burn.jpg)
-
----
-class: middle, full-text
-
-만들자 만들자의 진입장벽
-![장벽](/doc/img/wall.jpg)
-
----
-
-class: middle, full-text
-
-진입 장벽은 설정, 설치, 조립  입니다.
-
----
-
-class: middle, full-text
-
-이제 만들어 봅시다
-
----
-
-class: middle, full-text
-
-아두이노 vs 라즈베리파이 vs 기타것들
-
-자바 vs 자바스크립트
-
----
-
-class: middle, full-text
-
-pc? 표준 입/출력 모니터 마우스, 키보드
-
-더하기
-
-모터/센서온.습도/라디오모듈/스피커/디스플레이lcd/초음파/등등.
-
----
-
-class: middle, full-text
-
-라즈베리 첫걸음. hello world ~
-
-led 전구에 불켜기
-
----
-
-class: middle, full-text
-
-![재료](http://www.icbank.com/icbank_data/image/shop_product/2014/8AE4D167-FBF2-469D-8190-164240DFE2C0.jpg)
-
----
-
-class: middle, full-text
-
-+ [빵판(브레드 보드)](http://www.icbanq.com/shop/product_detail.asp?prod_code=P005535466)
-
-+ led 전구
-
-+ 저항
-
-+ [케이블](http://www.devicemart.co.kr/1113721)
-
----
-class: middle, full-text
-
-재료 살 수 있는곳
-
-- [[New버전] 라즈베리파이 Model B+ 단품](http://www.icbanq.com/shop/product_detail.asp?prod_code=P005587400&catg_code=115185)
-
-- [[New버전] 라즈베리파이 Model B+ Basic KIT](http://www.icbanq.com/shop/product_detail.asp?prod_code=P005607887&catg_code=115185)
-
-- icbanq  http://www.icbanq.com/shop/
-
-- 디바이스마트 http://www.devicemart.co.kr/
-
-- 공구카페  http://cafe.naver.com/mpucafe/4821
-
----
-class: middle, full-text
-
-## 라즈베리파이 OS 설치
-
-- 라즈베리 os 다운로드
-
-- os 다운로드. 종류 다양 raspbian 를 받자
-
-- http://www.raspberrypi.org/downloads/
-
-- raspbian zip download
-
----
-
-class: middle, full-text
-
-## 라즈베리파이 OS 설치
-
-- win32diskimager
-
-- 윈도우 프로그램이용
-
-- img 파일을 sd 카드에 씌움
-
-- 라즈베리파이 부팅 붕~
-
----
-
-class: middle, full-text
-
-- 라즈베리 b+ GPIO
-
-<img src="http://data.designspark.info/uploads/images/53bc258dc6c0425cb44870b50ab30621" alt="img" style="width: 450px;"/>
-
----
-
-class: middle, full-text
-
-![구조도](img/rasled.png)
-
-- 배선그리기
-http://fritzing.org/download/
----
-
-class: middle, full-text
-
-![실물](img/rasledr.jpg)
-
----
-
-class: middle, full-text
-
-## 꼬마전구불껴기 코드
-
-```python
-sudo apt-get update
-sudo apt-get install python-rpi.gpio
-
-sudo python
->>>import RPi.GPIO as GPIO
->>>GPIO.setmode(GPIO.BCM)
->>>GPIO.setup(17, GPIO.OUT)
->>>GPIO.setup(17, GPIO.HIGH)
->>>GPIO.setup(17, GPIO.LOW)
-
+var observer = new MutationObserver(redraw);
+
+observer.observe(document.documentElement, {childList: true, subtree: true});
+
+redraw();
+
+function redraw() {
+  var container = document.querySelector(".repository-sidebar");
+  if (!container) return;
+
+  var parts = location.pathname.substring(1).split("/"),
+      user = parts[0],
+      id = parts[1],
+      sha = parts[2];
+  if (!user || !/^[a-z0-9][a-z0-9]*$/i.test(user)) return;
+  if (!/^([0-9]+|[0-9a-f]{20})$/.test(id)) id = null;
+  if (!/^[0-9a-f]{40}$/.test(sha)) sha = null;
+
+  var anchor = container.querySelector(".bl-ocks-button"),
+      href = "http://bl.ocks.org/" + user + (id ? "/" + id + (sha ? "/" + sha : "") : "");
+
+  if (!anchor) {
+    anchor = document.createElement("a");
+    anchor.className = "minibutton sidebar-button bl-ocks-button";
+    anchor.innerHTML = '<span class="octicon octicon-link-external"></span>bl.ocks.org';
+  }
+
+  // Disconnect to avoid observing our own mutations.
+  if (anchor.href !== href || anchor.parentNode !== container) {
+    observer.disconnect();
+    anchor.href = href;
+    container.appendChild(anchor);
+    observer.observe(document.documentElement, {childList: true, subtree: true});
+  }
+}
 ```
 
----
-class: middle, full-text
+------------------
+이하 잡글
 
-## 라즈베리파이로 만든것들
+재미있는거
+실습위주로
+불을 지피다~
 
-- 방금그라디오
+문서중복. 웹으로 한 페이지 만들어 보자
 
-- 쑥갓키우기
+실습 웹에서  한 페이지 글 쓰고 삭제 하기
 
----
+쓰는 방법은 과감하게 삭제
+필요하면 다 쓴다.
 
-class: middle, full-text
+같이 공유의 장점
+깃 사용법. 코드 검색. 비슷한 코드의 검색.
 
-## 라즈베리파이로 만든것- 방금그라디오
-
-<iframe width="560" height="315" src="//www.youtube.com/embed/kERdJyF-7RM" frameborder="0" allowfullscreen></iframe>
-
-http://www.youtube.com/watch?v=kERdJyF-7RM
----
-class: center, middle, full-text
-- 왜만들었나
-
-".gold[라디오 노래]만 듣고 싶다.<br>
-.gold[광고]는 안듣고 싶은데..<br>
-노래만 골라들으면 안되나요<br>
-노래만 듣고 싶다. "
-
-.pull-right[-- 노래만 듣고 싶은이]
-
----
-class: center, middle, full-text
-
-## 라즈베리파이로 만든것- 방금그라디오
-
-- 장점
-
-".gold[선곡이짱] 방송국 작가분들 선곡에 감사합니다.<br>
-.gold[광고는 NO!] 전하는 말씀은 듣고 싶지 않아요<br>
-실시간 노래가 술술.. 방금 그 라디오!!
-
-
----
-
-class: middle, full-text
-
-## 라즈베리파이로 만든것- 방금그라디오
-
-```python
-import 라디오모듈
-
-r.upVolume(1)
-r.upDownVolume(1)
-
-import 라디오모듈
-import lcd디스플레이
-
-data = request.url(방금그록라디오)
-최신노래정보 = data.parse.get최근꺼
-
-최신노래.제목
-최신노래.라디오채널
-최신노래.가수
-
-d.display(제목)
-d.display(채널)
-d.display(가수)
-
-r.channelt(라디오채널)
-```
-
----
-
-class: middle, full-text
-
-## 라즈베리파이로 만든것- 방금그라디오
-### 준비물
-
-1. [방금그곡api](http://music.daum.net/onair/timeline)
-1. python3
-1. raspberry pi
-1. [TEA5767 FM 디지털 스테레오 라디오 모듈](http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=A955319132&frm3=V2)
-1. [Nokia 5110 LCD](http://www.devicemart.co.kr/31029)
-1. [스피커](http://www.10x10.co.kr/shopping/category_prd.asp?itemid=898765&rdsite=nvshop_sp&NaPm=ct%3Dhzw68blk%7Cci%3Dd6f9db6ebddfcf32f6bd366d6b80154138ec0cdd%7Ctr%3Dsl%7Csn%3D219718%7Chk%3D69a0516a1216cf93849a469bda19f1d5330d3df7)
-1. [빵판](http://www.devicemart.co.kr/32298)
-1. 스위치
-1. [점퍼케이블](http://www.devicemart.co.kr/32284)
-
----
-class: middle, middle, full-text
-
- 선연결
-- https://github.com/XavierBerger/pcd8544
-- ![](https://camo.githubusercontent.com/7e1fdf3d7a138e6bad58c84361114fbc2cea8ff5/68747470733a2f2f7261772e6769746875622e636f6d2f5861766965724265726765722f706364383534342f6d61737465722f646f632f50434438353434776972696e672e706e67)
----
-class:  middle, full-text
-# 작업
-
-- [pcd8544 Python library 설치](https://github.com/XavierBerger/pcd8544)
-- pil 라이브러리 python2 에서만 실행;;
-- [python3 사용하기 위해 Pillow lib 설치한다](http://pillow.readthedocs.org/en/latest/installation.html)
-- python3 각종 에러가 발생하는데 lcd.py 적절히 수정해 준다.
-- 한글폰트 설치 sudo apt-get install ttf-unfonts-core
-- 각종 설치
-    ```python
-    sudo pip-3.2 install wiringpi
-    sudo pip-3.2 install wiringpi2
-    sudo pip-3.2 install spidev
-    sudo pip-3.2 install Pillow
-    ```
----
-class:  middle, full-text
-
-# code
-- [onair.py source](https://github.com/onairradio/onairradio.github.io/blob/master/onair.py)
-
-    ```python
-    ...
-    ch = {825: (97.3, "KBS1 라디오"), 824: ( 93.1, "KBS FM1")
-    , 827: (106.1, "KBS2 라디오"), 826: ( 89.1, "KBS FM2")
-    , 828: (111, "KBS 3라디오")
-
-    ...
-    url = 'http://music.daum.net/onair/songlist.json?type=top&searchDate='
-    resp = requests.post(url=url)
-    data = json.loads(resp.text)
-    ...
-    resp = requests.post(url=url)
-    data = json.loads(resp.text)
-
-    for song in reversed(data['songList']):
-        if song['channel']['channelType'] ...
-    ```
----
-class:  middle, full-text
-
-# onair radio api
-
-![](/doc/img/onairapi.png)
-
----
-
-class: middle, full-text
-
-- 쑥갓키우기
-
-![](img/skapp.png)
-
-https://play.google.com/store/search?q=%EC%91%A5%EA%B0%93%ED%82%A4%EC%9A%B0%EA%B8%B0&hl=ko
-
----
-
-class: middle, middle, full-text
-
-- 앞으로 만들꺼
-
-- 메이크페어
-
-- 해리포터 마법 지팡이
-
-- 음성 + 동장인식..
-
----
-
-class: middle, middle, full-text
-
-- 아두베리스핀 모임 소개
-- http://arduberryspin.github.io
-
----
-
-class: middle, middle, full-text
-
-- 라즈베리파이 한 세트 드릴분은..
-
----
-
-class: middle, full-text
-
-![](img/Raspberry_Pi_B+_top.jpg)
-
-감사합니다
