@@ -84,6 +84,9 @@ git  설명
 - 등등
 
 ---
+
+class: middle, full-text
+
 ```
 var observer = new MutationObserver(redraw);
 
