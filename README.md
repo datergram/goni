@@ -38,7 +38,7 @@ git  설명
 - 오픈 소스의 집합소. 구글도 보고 있다.
 - 오픈! 공유!
 
- ---
+---
 ### 실습 하나 
 - git 가입 및 계정 생성
 - branch 생성  gh-pages  
@@ -55,7 +55,7 @@ git  설명
 - 뉴스 이미지 삭제
 - 뉴스 제목 바꾸기, 글자 키우기 등
 
- ---
+---
 ### 실습 셋 
 - 내 홈피 생성. index.html
 - gist  코드 블럭
@@ -79,10 +79,8 @@ git  설명
 - markdown 홈페이지
 - bl.ock.org
 - 등등
- 
-내꺼 만들기
-같이 쓰는거 만들기. 출석부? // 소감문. 
 
+---
 ```
 var observer = new MutationObserver(redraw);
 
