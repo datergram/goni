@@ -1,5 +1,3 @@
-name: inverse
-layout: true
 ---
 # goni
 깃허브 실습용
@@ -85,9 +83,6 @@ git  설명
 
 ---
 
-class: middle, full-text
-
-```
 var observer = new MutationObserver(redraw);
 
 observer.observe(document.documentElement, {childList: true, subtree: true});
@@ -115,6 +110,9 @@ function redraw() {
     anchor.innerHTML = '<span class="octicon octicon-link-external"></span>bl.ocks.org';
   }
 
+```
+---
+```
   // Disconnect to avoid observing our own mutations.
   if (anchor.href !== href || anchor.parentNode !== container) {
     observer.disconnect();
@@ -123,6 +121,7 @@ function redraw() {
     observer.observe(document.documentElement, {childList: true, subtree: true});
   }
 }
+
 ```
 
 ------------------
