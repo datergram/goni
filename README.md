@@ -82,7 +82,7 @@ git  설명
 - 등등
 
 ---
-
+```
 var observer = new MutationObserver(redraw);
 
 observer.observe(document.documentElement, {childList: true, subtree: true});
