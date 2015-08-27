@@ -1,3 +1,7 @@
+name: inverse
+layout: true
+---
+class: title, center, middle
 # goni
 깃허브 실습용
 
