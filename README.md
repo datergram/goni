@@ -1,3 +1,6 @@
+name: inverse
+layout: true
+---
 # goni
 깃허브 실습용
 
@@ -5,6 +8,7 @@
 태풍 고니가 올라오는 저녁에..
 git  설명
 
+---
 ### 링크
 http://datergram.github.io
 http://datergram.github.io/blog
@@ -19,6 +23,7 @@ https://github.com/mbostock/bl.ocks.org
 
 http://ilmol.com/2015/01/Jekyll,Git%20%EC%9D%84%20%EB%AA%B0%EB%9D%BC%EB%8F%84%20%EB%AC%B4%EB%A3%8C%20Github%20Pages%20%EC%A6%90%EA%B8%B0%EA%B8%B0.html
 
+---
 ### 들어가기에 앞서
 - 열정에 불을 지피다
 - 오늘 개콘보다 재밌습니다
@@ -34,7 +39,7 @@ http://ilmol.com/2015/01/Jekyll,Git%20%EC%9D%84%20%EB%AA%B0%EB%9D%BC%EB%8F%84%20
 - script 코드를 올릴 공간을 가지게 됩니다. 
 - 프로그래머 같은 기분이 듭니다.
 
-
+---
 ### 왜 필요한가
 - 중복의 안좋은 기억 메일로 공유하던 문서
 - 보고서-1.txt 보고서-2.txt 보고서-최종.txt 보고서-final.txt
@@ -43,7 +48,7 @@ http://ilmol.com/2015/01/Jekyll,Git%20%EC%9D%84%20%EB%AA%B0%EB%9D%BC%EB%8F%84%20
 - 구글드라이브 , 클라우드, 블로그 vs git
 - 뭐가 다른가 파일 단위 같이 협업?
 
-
+---
 ### git
 - vcs version control system. 
 - 종류 cvs. svn. git
@@ -54,7 +59,7 @@ http://ilmol.com/2015/01/Jekyll,Git%20%EC%9D%84%20%EB%AA%B0%EB%9D%BC%EB%8F%84%20
 - 오픈 소스의 집합소. 구글도 보고 있다.
 - 오픈! 공유!
 
-
+---
 ### 실습 하나 
 - git 가입 및 계정 생성
 - branch 생성  gh-pages  
@@ -64,14 +69,14 @@ http://ilmol.com/2015/01/Jekyll,Git%20%EC%9D%84%20%EB%AA%B0%EB%9D%BC%EB%8F%84%20
 - 폴더 생성 및 파일 생성
 - history 확인 및 이전 상태 확인
 
-
+---
 ### 실습 둘 
 - js. jQuery. chrome 개발자도구.
 - 네이버에 다음 로그를
 - 뉴스 이미지 삭제
 - 뉴스 제목 바꾸기, 글자 키우기 등
 
-
+---
 ### 실습 셋 
 - 내 홈피 생성. index.html
 - gist  코드 블럭
@@ -79,14 +84,14 @@ http://ilmol.com/2015/01/Jekyll,Git%20%EC%9D%84%20%EB%AA%B0%EB%9D%BC%EB%8F%84%20
 - chrome extension 안되는데;
 - bug fix , fork, pull request 요청. 
 
-
+---
 ### 실습 마지막
 - http://datergram.github.io/visual
 - http://github.com/datergram/visual
 - git 권한추가
 - 같이 만드는 스터디 홈페이지 
 
-
+---
 ### git 으로 할 수 있는 것들
 - 아이파이썬 노트북 
 - 슬라이드 
@@ -96,26 +101,10 @@ http://ilmol.com/2015/01/Jekyll,Git%20%EC%9D%84%20%EB%AA%B0%EB%9D%BC%EB%8F%84%20
 - bl.ock.org
 - 등등
 
+---
 ### F&A
 - Q 영화 예능 동영상 깃에 올려서 공유하면 안될까요?
 - A
 - Q github 용량 제한 없나요?
 - A
 - Q 
-
-이하 잡글
-스샷 첨부 가입/브랜치/도메인설정/수정삭제버튼
-
-재미있는거 
-실습위주로
-불을 지피다~
-
-문서중복. 웹으로 한 페이지 만들어 보자 
-
-실습 웹에서  한 페이지 글 쓰고 삭제 하기 
-
-쓰는 방법은 과감하게 삭제
-필요하면 다 쓴다. 
-
-같이 공유의 장점
-깃 사용법. 코드 검색. 비슷한 코드의 검색.
