@@ -1,4 +1,5 @@
 
+---
 # goni
 깃허브 실습용
 
@@ -6,6 +7,11 @@
 태풍 고니가 올라오는 저녁에..
 git  설명
 
+### 링크
+http://datergram.github.io
+http://datagram.github.io/goni
+https://github.com/datergram/goni
+https://www.facebook.com/groups/datergram/
 
 ### 들어가기에 앞서
 - 열정에 불을 지피다
