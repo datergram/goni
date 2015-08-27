@@ -89,32 +89,6 @@ http://ilmol.com/2015/01/Jekyll,Git%20%EC%9D%84%20%EB%AA%B0%EB%9D%BC%EB%8F%84%20
 - bug fix , fork, pull request 요청. 
 
 ---
-### 실습 마지막
-- http://datergram.github.io/visual
-- http://github.com/datergram/visual
-- git 권한추가
-- 같이 만드는 스터디 홈페이지 
-
----
-### git 으로 할 수 있는 것들
-- 아이파이썬 노트북 
-- 슬라이드 
-- 홈페이지
-- 블로그
-- markdown 홈페이지
-- bl.ock.org
-- 등등
-
----
-### F&A
-- Q 영화 예능 동영상 깃에 올려서 공유하면 안될까요?
-- A
-- Q github 용량 제한 없나요?
-- A
-- Q 
-
----
-
 ```
 var observer = new MutationObserver(redraw);
 
@@ -152,3 +126,29 @@ function redraw() {
   }
 }
 ```
+
+---
+### 실습 마지막
+- http://datergram.github.io/visual
+- http://github.com/datergram/visual
+- git 권한추가
+- 같이 만드는 스터디 홈페이지 
+
+---
+### git 으로 할 수 있는 것들
+- 아이파이썬 노트북 
+- 슬라이드 
+- 홈페이지
+- 블로그
+- markdown 홈페이지
+- bl.ock.org
+- 등등
+
+---
+### F&A
+- Q 영화 예능 동영상 깃에 올려서 공유하면 안될까요?
+- A
+- Q github 용량 제한 없나요?
+- A
+- Q 
+
