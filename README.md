@@ -6,9 +6,8 @@ class: middle, full-text
 
 깃허브 실습
 
-태풍 고니가 올라오는 저녁에..
-
 .footnote[
+태풍 고니가 올라오는 저녁에..
 - [발표자](https://www.facebook.com/kozazz): 곽두환
 ]
 
