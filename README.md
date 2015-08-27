@@ -129,8 +129,8 @@ function redraw() {
 
 ---
 ### 실습 마지막
-- http://datergram.github.io/visual
-- http://github.com/datergram/visual
+- http://datergram.github.io
+- http://github.com/datergram
 - git 권한추가
 - 같이 만드는 스터디 홈페이지 
 
