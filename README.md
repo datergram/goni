@@ -18,8 +18,9 @@ https://www.facebook.com/groups/datergram/
 - 오늘 개콘보다 재밌습니다
 - 다 기억 못합니다
 - 구경만 해도 좋습니다
-- git은 웹에서 하는 것으로.. 좋은 툴도 많고, shell 명령어도 많습니다만 생략.
-
+- git은 웹에서 하는 것으로.. 좋은 툴도 많고, shell 명령어도 많습니다만 생략. 
+- 원숭이깃 참고 http://backlogtool.com/git-guide/kr/intro/intro1_1.html
+- git clone ,add ,commit , push, pull
 
 ### 끝나고 나면
 - 평생쓸 홈페이지 주소가 생깁니다.
@@ -28,7 +29,8 @@ https://www.facebook.com/groups/datergram/
 
 
 ### 왜 필요한가
-- 중복의 안좋은 기억 메일로 공유하던 문서 보고서_1.txt 보고서_2.txt 보고서_최종.txt 보고서_final.txt
+- 중복의 안좋은 기억 메일로 공유하던 문서
+- 보고서-1.txt 보고서-2.txt 보고서-최종.txt 보고서-final.txt
 - 같은 파일은 하나만 존재하게 한다. 중복의 삭제
 - 비슷한애들 
 - 구글드라이브 , 클라우드, 블로그 vs git
@@ -40,7 +42,7 @@ https://www.facebook.com/groups/datergram/
 - 종류 cvs. svn. git
 - git? github?
 - 버젼관리란 동일 파일은 하나만 유지하자. 
-- 공짜. 무재한
+- 공짜. 무제한
 - 그대신 전부 오픈. 전화 번호, 계좌 번호, 각종 비번 하믄 인터넷 검색됩니다. 
 - 오픈 소스의 집합소. 구글도 보고 있다.
 - 오픈! 공유!
@@ -87,8 +89,15 @@ https://www.facebook.com/groups/datergram/
 - bl.ock.org
 - 등등
 
+### F&A
+- Q 영화 예능 동영상 깃에 올려서 공유하면 안될까요?
+- A
+- Q github 용량 제한 없나요?
+- A
+- Q 
 
 이하 잡글
+스샷 첨부 가입/브랜치/도메인설정/수정삭제버튼
 
 재미있는거 
 실습위주로
