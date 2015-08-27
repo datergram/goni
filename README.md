@@ -10,6 +10,7 @@ git  설명
 ---
 ### 링크
 http://datergram.github.io
+http://datergram.github.io/blog
 http://datergram.github.io/goni
 http://datergram.github.io/goni/slide
 
@@ -18,6 +19,8 @@ https://github.com/datergram/goni/slide
 
 https://www.facebook.com/groups/datergram/
 https://github.com/mbostock/bl.ocks.org
+
+http://ilmol.com/2015/01/Jekyll,Git%20%EC%9D%84%20%EB%AA%B0%EB%9D%BC%EB%8F%84%20%EB%AC%B4%EB%A3%8C%20Github%20Pages%20%EC%A6%90%EA%B8%B0%EA%B8%B0.html
 
 ---
 ### 들어가기에 앞서
