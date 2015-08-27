@@ -1,5 +1,3 @@
-
----
 # goni
 깃허브 실습용
 
@@ -7,7 +5,6 @@
 태풍 고니가 올라오는 저녁에..
 git  설명
 
----
 ### 링크
 http://datergram.github.io
 http://datergram.github.io/blog
@@ -22,7 +19,6 @@ https://github.com/mbostock/bl.ocks.org
 
 http://ilmol.com/2015/01/Jekyll,Git%20%EC%9D%84%20%EB%AA%B0%EB%9D%BC%EB%8F%84%20%EB%AC%B4%EB%A3%8C%20Github%20Pages%20%EC%A6%90%EA%B8%B0%EA%B8%B0.html
 
----
 ### 들어가기에 앞서
 - 열정에 불을 지피다
 - 오늘 개콘보다 재밌습니다
