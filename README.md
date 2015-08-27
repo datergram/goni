@@ -14,6 +14,7 @@ git  설명
 - 구경만 해도 좋습니다
 - git은 웹에서 하는 것으로.. 좋은 툴도 많고, shell 명령어도 많습니다만 생략. 
 - 원숭이깃 참고 http://backlogtool.com/git-guide/kr/intro/intro1_1.html
+- git clone ,add ,commit , push, pull
 
 ### 끝나고 나면
 - 평생쓸 홈페이지 주소가 생깁니다.
