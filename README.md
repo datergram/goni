@@ -14,6 +14,7 @@ class: middle, full-text
 
 ---
 ### 링크
+- 미리 보시면 좋습니다.
 - http://datergram.github.io
 - http://datergram.github.io/blog
 - http://datergram.github.io/goni
