@@ -1,12 +1,16 @@
 name: inverse
 layout: true
 ---
+class: middle, full-text
 # goni
-깃허브 실습용
 
-데이터 그램 발표용. 
+깃허브 실습
+
 태풍 고니가 올라오는 저녁에..
-git  설명
+
+.footnote[
+- [발표자](https://www.facebook.com/kozazz): 곽두환
+]
 
 ---
 ### 링크
