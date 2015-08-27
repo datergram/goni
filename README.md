@@ -7,12 +7,19 @@
 태풍 고니가 올라오는 저녁에..
 git  설명
 
+---
 ### 링크
 http://datergram.github.io
-http://datagram.github.io/goni
-https://github.com/datergram/goni
-https://www.facebook.com/groups/datergram/
+http://datergram.github.io/goni
+http://datergram.github.io/goni/slide
 
+https://github.com/datergram/goni
+https://github.com/datergram/goni/slide
+
+https://www.facebook.com/groups/datergram/
+https://github.com/mbostock/bl.ocks.org
+
+---
 ### 들어가기에 앞서
 - 열정에 불을 지피다
 - 오늘 개콘보다 재밌습니다
@@ -22,6 +29,7 @@ https://www.facebook.com/groups/datergram/
 - 원숭이깃 참고 http://backlogtool.com/git-guide/kr/intro/intro1_1.html
 - git clone ,add ,commit , push, pull
 
+---
 ### 끝나고 나면
 - 평생쓸 홈페이지 주소가 생깁니다.
 - script 코드를 올릴 공간을 가지게 됩니다. 
