@@ -83,7 +83,7 @@ class: middle, full-text
 ### 실습 둘 
 - js. jQuery. chrome 개발자도구.
 - 네이버에 다음 로그를
-- 뉴스 이미지 삭제
+- 뉴스 이미지 삭제   jQuery("img").hide();
 - 뉴스 제목 바꾸기, 글자 키우기 등
 
 ---
